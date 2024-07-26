@@ -1,2 +1,2 @@
 Sample Java Applicaiton V3.6.2
-testing first project
+test code by pushing to github
